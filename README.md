@@ -6,14 +6,14 @@ This repository contains some of the resources developed by [REACTION](http://ar
 
 * [SentiLex-PT](SentiLex-PT02.zip) - sentiment lexicon for Portuguese.
 
-* NomesLex-PT - lexicon of person names from Portugal.
+* [NomesLex-PT](NomesLex-PT.zip) - lexicon of person names from Portugal.
 
-* POWER-PT ontology and SPARQL Endpoint - Portuguese politics.
+* [POWER-PT](PowerBaseline.zip) - an ontology of Portuguese politics.
 
-* SentiCorpus-PT - comments in Portuguese manually annotated with sentiment and opinions about politicians.
+* [SentiCorpus-PT](SentiCorpus-PT_01.txt) - comments in Portuguese manually annotated with sentiment and opinions about politicians.
 
-* SentiTuites-PT - corpus of tweets posted by Portuguese users during the 2011 election campaign.
+* [SentiTuites-PT](SentiTuites-PT01.zip) - corpus of tweets posted by Portuguese users during the 2011 election campaign.
 
 * [DBpediaEntities-PT](DBpediaEntities-PT-0.1.zip) - corpus of entities(persons, places, organisations) extracted from the Portuguese DBpedia.
 
-* DBpediaRelations-PT - corpus of semantic relationships(persons, places, organisations) extracted from the Portuguese Wikpedia and DBpedia.
+* [DBpediaRelations-PT](DBpediaRelations-PT-0.2.txt.bz2) - corpus of semantic relationships(persons, places, organisations) extracted from the Portuguese Wikpedia and DBpedia.
