@@ -14,7 +14,11 @@ Building a Sentiment Lexicon for Social Judgement Mining.
 Mário J. Silva, Paula Carvalho, Luís Sarmento. In Lecture Notes in Computer Science (LNCS) / Lecture Notes in Artificial Intelligence (LNAI), International Conference on Computational Processing of Portuguese (PROPOR), 17-20 April, 2012, Coimbra, Portugal.
 -->
 
-* [POWER-PT](PowerBaseline.zip) - an ontology of Portuguese politics.
+### POWER-PT
+
+* File: [POWER-PT](PowerBaseline.zip)
+* Description: An ontology of Portuguese politics.
+* Cite
 
 <!--
 Tracking politics with POWER 
@@ -24,7 +28,11 @@ POWER - Politics Ontology for Web Entity Retrieval
 Silvio Moreira, David Batista, Paula Carvalho, Francisco M Couto, and Mário J Silva. In Advanced Information Systems Engineering Workshops. Springer, 2011.
 -->
 
-* [DBpediaRelations-PT](DBpediaRelations-PT-0.2.txt.bz2) - corpus of semantic relationships(persons, places, organisations) extracted from the Portuguese Wikpedia and DBpedia.
+### DBpediaRelations-PT
+
+* File: [DBpediaRelations-PT](DBpediaRelations-PT-0.2.txt.bz2)
+* Description: a corpus of semantic relationships(persons, places, organisations) extracted from the Portuguese Wikpedia and DBpedia.
+* Cite
 
 <!--
 Exploring DBpedia and Wikipedia for Portuguese Semantic Relationship Extraction 
@@ -32,12 +40,14 @@ David Soares Batista, David Forte, Rui Silva, Bruno Martins, and Mário J. Silva
 http://linguamatica.com/index.php/linguamatica/article/view/157
 -->
 
-* [DBpediaEntities-PT](DBpediaEntities-PT-0.1.zip) - corpus of entities(persons, places, organisations) extracted from the Portuguese DBpedia.
+### Others
 
-* [Twitter-BrownClusters-PT](Twitter-BrownClusters-PT.txt.zip) - word clusters induced from Portuguese Twitter messages.
+* [DBpediaEntities-PT](DBpediaEntities-PT-0.1.zip): corpus of entities (i.e., persons, places, organisations) extracted from the Portuguese DBpedia.
 
-* [NomesLex-PT](NomesLex-PT.zip) - lexicon of person names from Portugal.
+* [Twitter-BrownClusters-PT](Twitter-BrownClusters-PT.txt.zip): word clusters induced from Portuguese Twitter messages.
 
-* [SentiCorpus-PT](SentiCorpus-PT_01.txt) - comments in Portuguese manually annotated with sentiment and opinions about politicians.
+* [NomesLex-PT](NomesLex-PT.zip): lexicon of person names from Portugal.
 
-* [SentiTuites-PT](SentiTuites-PT01.zip) - corpus of tweets posted by Portuguese users during the 2011 election campaign.
+* [SentiCorpus-PT](SentiCorpus-PT_01.txt): comments in Portuguese manually annotated with sentiment and opinions about politicians.
+
+* [SentiTuites-PT](SentiTuites-PT01.zip): corpus of tweets posted by Portuguese users during the 2011 election campaign.
