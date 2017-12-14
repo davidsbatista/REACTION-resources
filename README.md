@@ -1,4 +1,4 @@
-# REACTION resources
+# REACTION
 
 This repository contains some of the resources developed by [REACTION](http://arquivo.pt/wayback/20151118124735/http://dmir.inesc-id.pt/project/Reaction) (Retrieval, Extraction and Aggregation Computing Technology for Integrating and Organizing News) an initiative for developing a computational journalism platform (mostly) for Portuguese.
 
@@ -7,38 +7,25 @@ This repository contains some of the resources developed by [REACTION](http://ar
 
 * File: [SentiLex-PT](SentiLex-PT02.zip)
 * Description: A sentiment lexicon for Portuguese.
-* Cite:
-
-<!--
-Building a Sentiment Lexicon for Social Judgement Mining.
-Mário J. Silva, Paula Carvalho, Luís Sarmento. In Lecture Notes in Computer Science (LNCS) / Lecture Notes in Artificial Intelligence (LNAI), International Conference on Computational Processing of Portuguese (PROPOR), 17-20 April, 2012, Coimbra, Portugal.
--->
+* Cite: _Building a Sentiment Lexicon for Social Judgement Mining_. Mário J. Silva, Paula Carvalho, Luís Sarmento. In Lecture Notes in Computer Science (LNCS) / Lecture Notes in Artificial Intelligence (LNAI), International Conference on Computational Processing of Portuguese (PROPOR), 17-20 April, 2012, Coimbra, Portugal.
 
 ### POWER-PT
 
 * File: [POWER-PT](PowerBaseline.zip)
 * Description: An ontology of Portuguese politics.
-* Cite
+* Cite:
+  *  _Tracking politics with POWER_ Silvio Moreira, David S Batista, Paula Carvalho, Francisco M Couto, and Mario J Silva. In Program: electronic library and information systems, 47(2), 2013.
+  * _POWER - Politics Ontology for Web Entity Retrieval_ Silvio Moreira, David Batista, Paula Carvalho, Francisco M Couto, and Mário J Silva. In Advanced Information Systems Engineering Workshops. Springer, 2011.
 
-<!--
-Tracking politics with POWER 
-Silvio Moreira, David S Batista, Paula Carvalho, Francisco M Couto, and Mario J Silva. In Program: electronic library and information systems, 47(2), 2013.
-
-POWER - Politics Ontology for Web Entity Retrieval 
-Silvio Moreira, David Batista, Paula Carvalho, Francisco M Couto, and Mário J Silva. In Advanced Information Systems Engineering Workshops. Springer, 2011.
--->
 
 ### DBpediaRelations-PT
 
 * File: [DBpediaRelations-PT](DBpediaRelations-PT-0.2.txt.bz2)
-* Description: a corpus of semantic relationships(persons, places, organisations) extracted from the Portuguese Wikpedia and DBpedia.
-* Cite
-
-<!--
-Exploring DBpedia and Wikipedia for Portuguese Semantic Relationship Extraction 
+* Description: a corpus of semantic relationships extracted from the Portuguese Wikpedia and DBpedia.
+* Cite: _Exploring DBpedia and Wikipedia for Portuguese Semantic Relationship Extraction_
 David Soares Batista, David Forte, Rui Silva, Bruno Martins, and Mário J. Silva.Linguamática, 5(1), 2013.
-http://linguamatica.com/index.php/linguamatica/article/view/157
--->
+
+
 
 ### Others
 
