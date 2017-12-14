@@ -1,5 +1,7 @@
 # REACTION
 
+![alt text](https://github.com/davidsbatista/REACTION-resources/raw/master/REACTION-logo.png)
+
 This repository contains some of the resources developed by [REACTION](http://arquivo.pt/wayback/20151118124735/http://dmir.inesc-id.pt/project/Reaction) (Retrieval, Extraction and Aggregation Computing Technology for Integrating and Organizing News) an initiative for developing a computational journalism platform (mostly) for Portuguese.
 
 
