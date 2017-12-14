@@ -31,7 +31,7 @@ David Soares Batista, David Forte, Rui Silva, Bruno Martins, and Mário J. Silva
 
 ### Others
 
-* [DBpediaEntities-PT](DBpediaEntities-PT-0.1.zip): corpus of entities (i.e., persons, places, organisations) extracted from the Portuguese DBpedia.
+* [DBpediaEntities-PT](DBpediaEntities-PT-0.1.zip): corpus of entities extracted from the Portuguese DBpedia.
 
 * [Twitter-BrownClusters-PT](Twitter-BrownClusters-PT.txt.zip): word clusters induced from Portuguese Twitter messages.
 
