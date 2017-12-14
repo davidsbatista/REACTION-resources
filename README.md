@@ -3,7 +3,11 @@
 This repository contains some of the resources developed by [REACTION](http://arquivo.pt/wayback/20151118124735/http://dmir.inesc-id.pt/project/Reaction) (Retrieval, Extraction and Aggregation Computing Technology for Integrating and Organizing News) an initiative for developing a computational journalism platform (mostly) for Portuguese.
 
 
-* [SentiLex-PT](SentiLex-PT02.zip) - sentiment lexicon for Portuguese.
+### SentiLex-PT
+
+* File: [SentiLex-PT](SentiLex-PT02.zip)
+* Description: A sentiment lexicon for Portuguese.
+* Cite:
 
 <!--
 Building a Sentiment Lexicon for Social Judgement Mining.
