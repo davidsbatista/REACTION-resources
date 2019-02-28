@@ -1,0 +1,22 @@
+
+Data crawled from www.senato.it and
+
+No caso dos dados de www.senato.it, temos o texto para 10577
+documentos (penso que são cerca de 1500 casos em que houve um
+erro a extraír os dados da página Web).
+
+
+Portuguese
+==========
+
+Data crawled from www.parlamento.pt containing only 3 legislaturas
+
+No caso dos dados de www.parlamento.pt, temos o texto para 5300
+actividades legislativas (887 com o identificativo da Lei a que deram
+origem) das 3 últimas legislaturas.
+
+legislatura+ "\t" + sessaoLegislativa+ "\t" + numero + "\t" +
+dataEntrada + "\t" + tipo + "\t" + identificativoLei + "\t" + votacao
++ "\t" + votacaoDetalhe + "\t" + urlLei + "\t" + urlDoc+ "\t" +
+autoria + "\t" + titulo + "\t" + text
+
