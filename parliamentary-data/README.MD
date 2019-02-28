@@ -1,6 +1,6 @@
 # Data from the Italian Senate and the Portuguese Parliament
 
-This was data crawled in the scope of the REACTION project by [Bruno Martins]()
+This was data crawled in the scope of the REACTION project by [Bruno Martins](http://web.ist.utl.pt/bruno.g.martins/)
 
 
 Portuguese Parliament
