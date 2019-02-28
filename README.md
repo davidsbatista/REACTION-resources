@@ -30,7 +30,7 @@ David Soares Batista, David Forte, Rui Silva, Bruno Martins, and Mário J. Silva
 
 ### Parliamentary Data
 
-- Data crawled by [Bruno Martins](http://web.ist.utl.pt/bruno.g.martins/) from the Italian Senate and the Portuguese Parliament
+- [Data](parliamentary-data) crawled by [Bruno Martins](http://web.ist.utl.pt/bruno.g.martins/) from the Italian Senate and the Portuguese Parliament
 
 
 ### Others
