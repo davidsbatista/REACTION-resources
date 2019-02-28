@@ -28,6 +28,10 @@ This repository contains some of the resources developed by [REACTION](http://ar
 David Soares Batista, David Forte, Rui Silva, Bruno Martins, and Mário J. Silva.Linguamática, 5(1), 2013.
 
 
+### Parliamentary Data
+
+- Data crawled by [Bruno Martins](http://web.ist.utl.pt/bruno.g.martins/) from the Italian Senate and the Portuguese Parliament
+
 
 ### Others
 
