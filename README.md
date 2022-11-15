@@ -9,7 +9,7 @@ This repository contains some of the resources developed by [REACTION](http://ar
 
 * File: [SentiLex-PT](SentiLex-PT02.zip)
 * Description: A sentiment lexicon for Portuguese.
-* Cite: _Building a Sentiment Lexicon for Social Judgement Mining_. Mário J. Silva, Paula Carvalho, Luís Sarmento. In Lecture Notes in Computer Science (LNCS) / Lecture Notes in Artificial Intelligence (LNAI), International Conference on Computational Processing of Portuguese (PROPOR), 17-20 April, 2012, Coimbra, Portugal.
+* Cite: [_Building a Sentiment Lexicon for Social Judgement Mining_. Mário J. Silva, Paula Carvalho, Luís Sarmento. In Lecture Notes in Computer Science (LNCS) / Lecture Notes in Artificial Intelligence (LNAI), International Conference on Computational Processing of Portuguese (PROPOR), 17-20 April, 2012, Coimbra, Portugal.](http://dx.doi.org/10.1007/978-3-642-28885-2_25)
 
 ### POWER-PT
 
